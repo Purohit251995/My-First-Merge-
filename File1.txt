@@ -1,3 +1,8 @@
 Pizza
 Burger
+<<<<<<< HEAD
 Fries
+=======
+water
+Juice
+>>>>>>> Branch1
